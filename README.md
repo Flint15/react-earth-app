@@ -1,5 +1,7 @@
 # React learning Project (づ ᴗ \_ᴗ)づ ♡
 
+**by [https://www.youtube.com/watch?v=SqcY0GlETPk&t=102s](https://www.youtube.com/watch?v=SqcY0GlETPk&t=102s)**
+
 ## Getting started
 
 1. Clone or download the repo:
